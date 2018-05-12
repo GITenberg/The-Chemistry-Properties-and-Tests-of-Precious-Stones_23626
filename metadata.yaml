@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25953'
     url: http://www.gutenberg.org/2009/agents/25953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23626#The-Chemistry-Properties-and-Tests-of-Precious-Stones
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2007-11-26'
 gutenberg_type: Text
